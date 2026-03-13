@@ -302,6 +302,8 @@ const ActionButton = ({
           return (
             <ActionButtonItem
               key={idx}
+              size={size}
+              buttonColor={buttonColor}
               position={position}
               verticalOrientation={verticalOrientation}
               spacing={spacing}

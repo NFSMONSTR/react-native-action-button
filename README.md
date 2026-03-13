@@ -96,7 +96,7 @@ import ActionButton from '@nfsmonstr/react-native-action-button';
 
 | Property | Type | Default | Description |
 | --- | :---: | :---: | --- |
-| size | number | 40 | Size of the item button |
+| size | number | parent FAB size | Size of the item button (inherits parent `size` if not set) |
 | title | string/ReactElement | undefined | Label shown next to the button |
 | onPress | function | **required** | Called when item is tapped |
 | buttonColor | string | same as FAB | Background color of the item |
