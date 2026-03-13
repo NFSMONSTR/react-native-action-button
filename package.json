@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@nfsmonstr/react-native-action-button",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Customizable FAB for React Native — TypeScript rewrite of the original by Yousef Kamawall (mastermoo)",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
